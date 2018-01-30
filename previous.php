@@ -5,7 +5,7 @@
 </head>
 <body bgcolor="green">
 	<a href="next.php">previous</a>
-	<a href="index.php">next</a>
+	<a href="indextwo.php">next</a>
 
 </body>
 </html>
