@@ -4,7 +4,7 @@
 	<title></title>
 </head>
 <body bgcolor="grey">
-	<a href="index.php">previous</a>
+	<a href="index2.php">previous</a>
 	<a href="previous.php">next</a>
 
 </body>
